@@ -1,0 +1,12 @@
+Vivado Simulator v2022.1
+Copyright 1986-1999, 2001-2022 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xillinx/Vivado/2022.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot counter_la_fir_tb_behav xil_defaultlib.counter_la_fir_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-5021] port 'VPWR' is not connected on this instance [C:/Vivado_project_2022/Caravel/verilog/housekeeping.v:340]
+WARNING: [VRFC 10-5021] port 'VPWR' is not connected on this instance [C:/Vivado_project_2022/Caravel/verilog/housekeeping.v:866]
+WARNING: [VRFC 10-5021] port 'VPWR' is not connected on this instance [C:/Vivado_project_2022/Caravel/verilog/housekeeping.v:917]
+WARNING: [VRFC 10-5021] port 'VPWR' is not connected on this instance [C:/Vivado_project_2022/Caravel/verilog/housekeeping.v:930]
+Completed static elaboration
+INFO: [XSIM 43-4323] No Change in HDL. Linking previously generated obj files to create kernel
