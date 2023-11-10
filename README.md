@@ -8,7 +8,7 @@ The compiled firmware will be written into Caraval SoC via SPI flash, and then e
 
 
 To run the simulation, please follow the following steps:
-1. Download the Vivado project named Caravel_2.zip
+1. Download the Vivado project named Caravel.zip
 2. unzip the project
 3. Open the project by Vivado 2022.1, any other versions of Vivado will be read only
 4. Press run simulation
